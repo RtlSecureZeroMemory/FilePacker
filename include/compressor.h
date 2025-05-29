@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
- // === FAQ === documentation is available at https://github.com/JustasMasiulis/filepacker
+ // === FAQ === documentation is available at https://github.com/RtlSecureZeroMemory/filepacker
  // * According to License and copyright, you have to give credits when you use a piece of code from the code, repo.
  // * The compression rates can change depending on your file.
  // * The compressed winrar or 7z files wont be effective, so repacking isnt a solution.
