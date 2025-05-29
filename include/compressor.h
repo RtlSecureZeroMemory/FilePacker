@@ -1,5 +1,5 @@
 /*
- * Copyright 2018-2025 Alnicke
+ * Copyright 2018-2025 Milano
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@
  // * The compression rates can change depending on your file.
  // * The compressed winrar or 7z files wont be effective, so repacking isnt a solution.
  // * Fully usage has given on the program.
- // * big regards, Alnicke.
+ // * big regards, Milano ( aka RtlSecureZeroMemory ).
 
 // includes
 #include <iostream>
